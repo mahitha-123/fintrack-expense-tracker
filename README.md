@@ -154,3 +154,8 @@ API runs at: **http://localhost:5000**
 ## 📄 License
 
 MIT
+<img width="1903" height="910" alt="image" src="https://github.com/user-attachments/assets/48c7eecc-df2f-4987-a764-de2b4eceb762" />
+<img width="1913" height="1007" alt="image" src="https://github.com/user-attachments/assets/23c1e7f1-7cb6-4677-9f61-e058aedc3299" />
+<img width="1915" height="908" alt="image" src="https://github.com/user-attachments/assets/81a5b664-ab17-4e4c-b0fe-7745058abb8d" />
+
+
