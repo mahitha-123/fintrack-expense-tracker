@@ -1,5 +1,5 @@
 # 💰 FinTrack — Expense Tracker & Budget Planner
-
+FinTrack is a full-stack personal finance management application built with React, Node.js, Express, and MySQL that helps users track expenses, manage budgets, and analyze spending.
 A full-stack personal finance web app built with **React.js**, **Chart.js**, **Node.js**, **MySQL**, and **Bootstrap**.
 
 ## ✨ Features
